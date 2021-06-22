@@ -13,7 +13,7 @@ Timtai generator
 
 ### Run server
 
-`python3 timtai/main.py`
+`python3 -m timtai.main`
 
 ### Using The Api
 
