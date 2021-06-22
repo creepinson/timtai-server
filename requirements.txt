@@ -1,3 +1,4 @@
 opencv-python
 aiohttp
 numpy
+validators
